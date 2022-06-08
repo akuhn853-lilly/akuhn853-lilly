@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-## I'm Alex Kuhn. Here's a bit about me!
+## Hi there 👋 I'm Alex Kuhn. Here's a bit about me!
 
 
 - 😄 Pronouns: He/Him/His
@@ -29,4 +26,4 @@
 
 | ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=akuhn853-lilly&count_private=true&theme=dark) | ![Alex GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akuhn853-lilly&count_private=true&theme=dark) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuhn-lilly&count_private=true&theme=dark) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=akuhn853-lilly&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dark) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuhn853-lilly&count_private=true&theme=dark) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=akuhn853-lilly&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dark) |
