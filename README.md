@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS Lambda, Glue, Athena**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akuhn853-lilly](https://github.com/akuhn853-lilly)
+- 👨‍💻 All of my public projects are available at [https://github.com/akuhn853-lilly](https://github.com/akuhn853-lilly)
 
 - 💬 Ask me about **AWS Cloud Formation templates, Cloud Financial Management, Python web development**
 
